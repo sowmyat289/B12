@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Change made by person 2
+=======
+Change made by person 1
+>>>>>>> f561d74599028a48f0233d28ad22410c174cd4f6
